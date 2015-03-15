@@ -1,6 +1,9 @@
 {
   "name": "stalk/config",
   "description": "Simple config class reader",
+  "type": "library",
+  "keywords": ["conf", "config"],
+  "license": "MIT",
   "authors": [
     {
       "name": "andrey-mostovoy",
@@ -8,7 +11,7 @@
     }
   ],
   "autoload": {
-    "psr-4": {"stalk\\Config\\": ""}
+    "psr-4": {"stalk\\Config\\": "Config"}
   },
   "require-dev": {
     "phpunit/phpunit": "4.4.*"
