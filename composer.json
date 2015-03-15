@@ -1,5 +1,5 @@
 {
-  "name": "stalk/config",
+  "name": "andrey-mostovoy/config",
   "description": "Simple config class reader",
   "type": "library",
   "keywords": ["conf", "config"],
